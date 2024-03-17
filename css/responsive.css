@@ -1,0 +1,1216 @@
+
+@media (min-width: 320px) and (max-width: 575.98px) {
+    #topheader {
+        overflow: hidden;
+    }
+    #copyright a {
+        font-size: 12px;
+    }
+    #copyright p {
+        font-size: 12px;
+    }
+    #topbtn {
+        padding: 10px;
+        right: 18px;
+    }
+    .faq-img img {
+        width: 100%;
+    }
+    #blogbg {
+        margin-top: 60px;
+    }
+    .teacher-img img {
+        width: 100%;
+    }
+    .enroll-btn a {
+        padding: 10px 14px;
+        font-size: 14px;
+    }
+    .module {
+        text-align: center;
+    }
+    .subject p {
+        font-size: 13px;
+        padding-bottom: 5px;
+        line-height: 20px;
+    }
+    .subject h4 {
+        font-size: 18px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .subject {
+        text-align: center;
+    }
+    .pro-rating {
+        text-align: center;
+    }
+    .conduct {
+        text-align: center;
+    }
+    .sujon-img {
+        display: flex;
+        justify-content: center;
+    }
+    #course i.course-icons.fas.fa-arrow-right.slick-arrow {
+        display: none !important;
+    }
+    #course i.course-icons.fas.fa-arrow-left.slick-arrow {
+        display: none !important;
+    }
+    .vertical-dots {
+        display: none !important;
+    }
+    #testimonial i.testr-icons.fas.fa-arrow-right.slick-arrow {
+        display: none !important;
+    }
+    #testimonial i.testl-icons.fas.fa-arrow-left.slick-arrow {
+        display: none !important;
+    }
+    i.tch-icons.fas.fa-arrow-right.slick-arrow {
+        display: none !important;
+    }
+    i.tch-icons.fas.fa-arrow-left.slick-arrow {
+        display: none !important;
+    }
+    #topheader ul {
+        display: none;
+    }
+    #bottomheader {
+        padding: 0px;
+    }
+    .right-btn {
+        display: none;
+    }
+    .navbar ul li {
+        padding-top: 0px;
+    }
+    .navbar button {
+        background: transparent;
+        color: #444444;
+        font-size: 30px;
+    }
+    .navbar button:hover {
+        background: transparent;
+    }
+    .banner-text h1 span {
+        font-size: 20px;
+    }
+    .banner-text h1 {
+        font-size: 27px;
+    }
+    .banner-text {
+        text-align: center;
+        padding-top: 45px;
+    }
+    .banner-text p {
+        font-weight: 300;
+        font-size: 11px;
+        width: initial;
+    }
+    .links .tour {
+        font-size: 13px;
+        padding: 10px 16px;
+    }
+    .links .course {
+        font-size: 14px;
+        padding: 10px 14px;
+    }
+    .banner-content {
+        height: 430px !important;
+        background-position: center !important;
+    }
+    #support .online {
+        padding-bottom: 0px;
+    }
+    #support .online img {
+        padding-top: 15px;
+        padding-bottom: 10px;
+    }
+    #support .online .text-center h4 {
+        font-size: 20px;
+    }
+    #about {
+        overflow: hidden;
+        padding-top: 370px;
+    }
+    #about .common h2 {
+        font-size: 25px;
+        padding-bottom: 12px;
+    }
+    #about .about-slider:after {
+        right: 130px;
+        left: -70%;
+    }
+    #about .about-slider:before {
+        right: -75%;
+    }
+    #about .common p {
+        font-size: 11px;
+    }
+    .common {
+        padding-bottom: 40px;
+    }
+
+    .about-text p {
+        font-size: 11px;
+        margin-bottom: 12px;
+    }
+    .about-text {
+        padding-top: 40px;
+        text-align: center;
+    }
+    .buttons {
+        text-align: center;
+    }
+    .buttons a {
+        font-size: 11px;
+        padding: 10px 13px;
+        margin-right: 10px;
+        margin-top: 10px;
+    }
+    .counter-item h3 {
+        font-size: 20px;
+        font-weight: 700;
+        padding-bottom: 0px;
+    }
+    .counter-item h5 {
+        font-size: 14px;
+        padding-bottom: 0px;
+    }
+    #counter {
+        margin-top: 40px;
+        height: 130px;
+    }
+    #course {
+        padding-top: 40px;
+    }
+    .common h2 {
+        font-size: 22px;
+        padding-bottom: 5px;
+    }
+    .about-title p {
+        font-size: 11px;
+    }
+    #event .pb-calendar {
+        border: 8px solid var(--off-white);
+        min-height: 303px;
+        margin-bottom: 15px;
+    }
+    .pb-calendar .top-frame {
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        padding-top: 0px;
+    }
+    .pb-calendar .top-frame>.year-month-frame {
+        font-size: 20px;
+        line-height: 35px;
+    }
+    #event .col {
+        width: 30px;
+        height: 30px;
+        font-size: 12px;
+        line-height: 40px;
+    }
+    .pb-calendar .col-dayname {
+        color: goldenrod !important;
+    }
+    .event-img {
+        display: flex;
+        width: 100%;
+        justify-content: center;
+    }
+    .event-img img {
+        width: 100%;
+    }
+    .event-text h3 {
+        font-size: 16px;
+        margin-bottom: 5px;
+    }
+    .event-text {
+        width: 100%;
+        text-align: center;
+    }
+    .join-btn a {
+        font-size: 12px;
+        padding: 8px 15px;
+    }
+    #testimonial {
+        padding: 25px 0px;
+        margin-top: 40px;
+    }
+    .test-text p {
+        font-size: 12px;
+        line-height: 20px;
+        padding-bottom: 8px;
+    }
+    .test-text {
+        text-align: center;
+        padding-top: 35px;
+        padding-bottom: 45px;
+    }
+    .test-text h3 span {
+        font-size: 14px;
+    }
+    .test-text h3 {
+        font-size: 17px;
+    }
+    .a-card button.accordion-button.a-btn.collapsed {
+        font-size: 14px;
+        padding-left: 15px;
+        padding-right: 25px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .a-card .a-btn:not(.collapsed) {
+        font-size: 14px;
+        padding-left: 15px;
+        padding-right: 25px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+
+    }
+    .accordion-body {
+        word-spacing: 0px;
+        font-size: 12px;
+        padding-top: 15px;
+        background: var(--white-clr);
+        margin-bottom: 15px;
+    }
+    #teacher {
+        margin-top: 30px;
+    }
+    .teacher-text h3 {
+        font-size: 15px;
+    }
+    .teacher-text p {
+        font-size: 11px;
+    }
+    .blog-text h3 {
+        font-size: 25px;
+        padding-bottom: 5px;
+    }
+    .blog-education h4 a {
+        padding-left: 10px;
+        padding-right: 0px;
+        font-size: 13px;
+        padding-bottom: 0;
+    }
+    .blog-education {
+        bottom: 15px;
+    }
+    .blog-icons a i {
+        font-size: 11px;
+        width: 25px;
+        height: 25px;
+        line-height: 26px;
+        margin-bottom: 6px;
+    }
+    .blog-icons {
+        position: absolute;
+        right: 5px;
+        top: 59px;
+    }
+    .blog-date p {
+        font-size: 10px;
+        padding-left: 11px;
+    }
+    .blog-education a {
+        font-weight: 400;
+        font-size: 13px;
+        padding-left: 8px;
+        padding-right: 30px;
+        padding-bottom: 30px;
+    }
+    .blog-image-big {
+        margin-top: 10px;
+    }
+    .blog-image-big img {
+        width: 100%;
+    }
+    .small-education h4 {
+        padding-left: 7px;
+    }
+    #footer img {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .footer-p p {
+        font-size: 11px;
+        padding-bottom: 0px;
+    }
+    .white-logo {
+        text-align: center;
+    }
+    .footer-icon a {
+        margin-top: 14px;
+        margin-bottom: 0px;
+        margin-right: 6px;
+    }
+    #footer h3 {
+        padding-top: 25px;
+        padding-bottom: 10px;
+    }
+    .f-links a {
+        font-size: 12px;
+        padding-bottom: 4px;
+    }
+    .f-right {
+        padding-top: 0px;
+    }
+    .contact-items {
+        text-align: center;
+    }
+    .home-icon {
+        justify-content: center;
+        display: flex;
+    }
+    .home-icon a {
+        display: block;
+        padding: 20px;
+    }
+    .address p {
+        padding-bottom: 0px;
+    }
+    .navbar {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    #banner .slider-icons.fa-arrow-right {
+        padding: 13px;
+    }
+    #banner .slider-icons.fa-arrow-left {
+        padding: 13px;
+    }
+    
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    #topbtn {
+        
+        padding: 10px;
+    }
+    .enroll-btn a {
+        padding: 12px 14px;
+        font-size: 14px;
+    }
+    .subject p {
+        font-size: 13px;
+        padding-bottom: 5px;
+        line-height: 20px;
+    }
+    .subject h4 {
+        font-size: 16px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    .module {
+        text-align: center;
+    }
+    .subject {
+        text-align: center;
+    }
+    .pro-rating {
+        text-align: center;
+    }
+    .conduct {
+        text-align: center;
+    }
+    .sujon-img {
+        display: flex;
+        justify-content: center;
+    }
+    .three {
+        display: none !important;
+    }
+    .banner-text h1 {
+        font-size: 30px ;
+    }
+    .banner-text h1 span {
+        font-size: 22px ;
+    }
+    
+    #banner .slider .banner-content {
+        height: 400px;
+    }
+    .right-btn {
+        display: none;
+    }
+    .navbar ul li {
+        padding-top: 0px;
+    }
+    .navbar button {
+        font-size: 25px;
+        padding: 10px 18px;
+        background: transparent;
+        
+        color: #444444;
+    }
+    #bottomheader {
+        background: #f8f9fa;
+        padding: 0px 0px;
+    }
+    .navbar button:hover {
+        background: transparent;
+    }
+    #course i.course-icons.fas.fa-arrow-right.slick-arrow {
+        display: none !important;
+    }
+    #course i.course-icons.fas.fa-arrow-left.slick-arrow {
+        display: none !important;
+    }
+    #testimonial i.testr-icons.fas.fa-arrow-right.slick-arrow {
+        
+        display: none !important;
+    }
+    #testimonial i.testl-icons.fas.fa-arrow-left.slick-arrow {
+
+        display: none !important;
+    }
+    i.tch-icons.fas.fa-arrow-right.slick-arrow {
+        display: none !important;
+    }
+    i.tch-icons.fas.fa-arrow-left.slick-arrow {
+        display: none !important;
+    }
+    #banner .slider .banner-content {
+        height: 350px;
+        background-position: center !important;
+    }
+    .banner-text {
+        padding: 0;
+        text-align: center;
+    }
+    .banner-text h1 {
+        font-size: 25px;
+    }
+    .banner-text h1 span {
+        font-size: 19px;
+        padding-top: 12px;
+    }
+    .banner-text p {
+        width: initial;
+        font-size: 12px;
+    }
+    .navbar {
+        padding-top: 0;
+        padding-bottom: 0;
+    }
+    .links .course {
+        font-size: 16px;
+        padding: 12px 18px;
+    }
+    .links .tour {
+        font-size: 16px;
+        padding: 11px 18px;
+    }
+    #banner .slider-icons.fa-arrow-left {
+        padding: 13px;
+    }
+    #banner .slider-icons.fa-arrow-right {
+        padding: 13px;
+    }
+    #support .online {
+        padding-bottom: 0px;
+    }
+    #support .online img {
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+    #support {
+        margin-top: -78px;
+    }
+    #about {
+        padding-top: 370px;
+    }
+    .common h2 {
+        font-size: 23px;
+    }
+    .common p {
+        font-size: 11px;
+    }
+    .buttons a {
+        font-size: 16px;
+    }
+    #counter {
+        margin-top: 65px;
+        height: 190px;
+    }
+    .counter-item h3 {
+        font-size: 30px;
+        padding-bottom: 0px;
+    }
+    .counter-item h5 {
+        font-size: 18px;
+        padding-bottom: 0px;
+    }
+    #course {
+        padding-top: 50px;
+    }
+    .test-text {
+        padding-top: 40px;
+    }
+    .a-card .a-btn:not(.collapsed) {
+        font-size: 16px;
+    }
+    .a-card button.accordion-button.a-btn.collapsed {
+        font-size: 16px;
+        padding-top: 16px;
+        padding-bottom: 16px;
+    }
+    .teacher-icon a i {
+        font-size: 12px;
+        width: 30px;
+        height: 30px;
+        line-height: 32px;
+    }
+    .teacher-icon a {
+        padding: 0px 5px;
+    }
+    .teacher-text h3 {
+        font-size: 16px;
+        padding-top: 5px;
+    }
+    #teacher {
+        height: 320px;
+    }
+    .blog-text h3 {
+        font-size: 25px;
+        padding-bottom: 8px;
+    }
+    .teacher-text p {
+        font-size: 12px;
+    }
+    .vertical-items {
+        margin-top: 5px;
+    }
+
+    #testimonial {
+        padding: 30px 0px;
+        margin-top: 35px;
+    }
+    .faq-img {
+        display: flex;
+        justify-content: center;
+        clip-path: polygon(25% 0%, 89% 0%, 79% 100%, 11% 100%);
+    }
+    .test-text {
+        text-align: center;
+    }
+    #teacher {
+        margin-top: 12px;
+    }
+    .common {
+        padding-bottom: 29px;
+    }
+    .common h2 {
+        padding-bottom: 8px;
+    }
+    #blogbg {
+        margin-top: 180px;
+    }
+    .blog-image-big {
+        margin-top: 10px;
+    }
+    #blogimage {
+        margin-top: -170px;
+    }
+    .blog-text p {
+        font-size: 11px;
+    }
+    #support .online .text-center h4 {
+        font-size: 18px;
+    }
+    .white-logo {
+        text-align: center;
+    }
+    #footer img {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    .footer-p p {
+        font-size: 11px;
+        padding-bottom: 13px;
+    }
+    .footer-icon a i {
+        width: 35px;
+        height: 35px;
+        line-height: 35px;
+        font-size: 18px;
+    }
+    .footer-icon a {
+        margin-top: 15px;
+        margin-bottom: 0px;
+    }
+    #footer h3 {
+        font-size: 18px;
+        padding-top: 45px;
+        padding-bottom: 20px;
+    }
+    .f-links a {
+        font-size: 13px;
+        padding-bottom: 14px;
+    }
+    .f-right {
+        padding-top: 0px;
+    }
+    .contact-items {
+        text-align: center;
+    }
+    .home-icon {
+        display: flex;
+        justify-content: center;
+    }
+    .home-icon a i {
+        width: 40px;
+        height: 40px;
+        line-height: 41px;
+        font-size: 15px;
+    }
+    .home-icon a {
+        padding: 8px;
+    }
+
+    
+
+
+
+
+
+
+
+
+    
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    #topbtn {
+        right: 5px;
+        padding: 10px;
+    }
+    .banner-text {
+        text-align: center;
+    }
+    #copyright {
+        overflow: hidden;
+    }
+    #footer {
+        overflow: hidden;
+    }
+    #blogimage {
+        overflow: hidden;
+    }
+    #event {
+        overflow: hidden;
+    }
+    #counter {
+        overflow: hidden;
+    }
+    #support {
+        overflow: hidden;
+    }
+    #banner {
+        overflow: hidden;
+    }
+    img.after {
+        width: 31%;
+        height: 3px;
+    }
+    .conduct p {
+        margin-top: 2px;
+    }
+    .vertical-dots {
+        display: none;
+    }
+    .navbar button {
+        background: transparent;
+        color: #444444;
+        font-size: 25px;
+    }
+    #bottomheader {
+        overflow: hidden;
+        padding: 0px ;
+    }
+    .navbar button:hover {
+        background: transparent;
+    }
+    .right-btn {
+        display: none;
+    }
+
+    .navbar ul li {
+        padding-top: 0px;
+    }
+    .banner-text h1 span {
+        font-size: 26px;
+    }
+    .banner-text h1 {
+        font-size: 40px;
+        text-align: center;
+    }
+    .banner-text p {
+        padding-right: 60px;
+        padding-left: 60px;
+        font-size: 12px;
+        width: initial;
+    }
+    .banner-text {
+        width: 100%;
+        padding-top: 40px;
+    }
+    #banner .slider .banner-content {
+        height: 500px ;
+        background-position: center !important;
+    }
+    #banner .slider-icons.fa-arrow-left {
+        padding: 15px;
+    }
+    #banner .slider-icons.fa-arrow-right {
+        padding: 15px;
+    }
+    #support .online .text-center h4 {
+        font-size: 20px;
+    }
+    #support .online {
+        padding-bottom: 20px;
+    }
+    .links {
+        text-align: center;
+    }
+    .about-items {
+        display: flex ;
+        justify-content: center;
+        clip-path: polygon(23% 0%, 91% 0%, 79% 100%, 10% 100%);
+    }
+    .about-text {
+        text-align: center;
+    }
+    .buttons {
+        text-align: center;
+    }
+    .counter-item h3 {
+        font-size: 35px;
+    }
+    .counter-item h5 {
+        font-weight: 300;
+        font-size: 22px;
+    }
+    .about-title p {
+        font-size: 14px;
+        padding: 0px 111px;
+    }
+    .common h2 {
+        font-size: 24px;
+        padding-bottom: 10px;
+    }
+    .a-card button.accordion-button.a-btn.collapsed {
+        font-size: 18px;
+        padding-left: 18px;
+        padding-right: 18px;
+        padding-top: 18px;
+        padding-bottom: 18px;
+    }
+    .a-card .a-btn:not(.collapsed) {
+        font-size: 18px;
+        padding-left: 18px;
+        padding-right: 18px;
+        padding-top: 18px;
+        padding-bottom: 18px;
+    }
+    #course i.course-icons.fas.fa-arrow-right.slick-arrow {
+        
+        display: none !important;
+    }
+    #course i.course-icons.fas.fa-arrow-left.slick-arrow {
+        
+        display: none !important;
+    }
+    i.tch-icons.fas.fa-arrow-right.slick-arrow {
+        display: none !important;
+    }
+    i.tch-icons.fas.fa-arrow-left.slick-arrow {
+        display: none !important;
+    }
+    #event .pb-calendar {
+        margin-bottom: 15px;
+    }
+    .event-text h3 {
+        font-size: 22px ;
+        margin-bottom: 20px ;
+    }
+    .event-text p {
+        font-size: 13px ;
+        padding-bottom: 15px ;
+    }
+    .slick-slide img {
+        width: 100% ;
+    }
+    .join-btn a {
+        margin-top: 98px ;
+    }
+    .test-text p {
+        padding-top: 10px ;
+    }
+    #testimonial {
+        overflow: hidden;
+        margin-top: 65px;
+        padding: 30px 0px;
+    }
+    #testimonial i.testr-icons.fas.fa-arrow-right.slick-arrow {
+        font-size: 20px ;
+        width: 40px ;
+        height: 40px ;
+        line-height: 40px ;
+        left:  -20px ;
+        display: none !important;
+    }
+    #testimonial i.testl-icons.fas.fa-arrow-left.slick-arrow {
+        font-size: 20px ;
+        width: 40px ;
+        height: 40px ;
+        line-height: 40px ;
+        left: -20px ;
+        display: none !important;
+    }
+    div#accordionExample {
+        margin-top: 40px ;
+    }
+    #teacher {
+        margin-top: 50px;
+        overflow: hidden;
+    }
+    .blog-image-big img {
+        width: 100% ;
+    }
+    .blog-education h4 a {
+        padding-left: 0px ;
+        padding-right: 12px ;
+    }
+    .blog-image-big {
+        margin-top: 10px ;
+    }
+    img.after {
+        width: 50%;
+    }
+    #blogbg {
+        overflow: hidden;
+        margin-top: 30px;
+    }
+    .white-logo {
+        text-align: center;
+    }
+    .footer-icon a {
+        margin-top: 0px ;
+    }
+    .contact-items {
+        text-align: center;
+    }
+    .contact-items h3 {
+            padding-left: 24%;
+            
+    }
+    .home-icon {
+        text-align: end ;
+    }
+    #about {
+        overflow: hidden;
+        padding-top: 150px;
+    }
+    #course {
+        overflow: hidden;
+        padding-top: 65px;
+    }
+    #topheader {
+        overflow: hidden;
+    }
+
+
+
+
+
+
+    
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    #instagram {
+        overflow: hidden;
+    }
+    #footer {
+        overflow: hidden;
+    }
+    #blogimage {
+        overflow: hidden;
+    }
+    #teacher {
+        overflow: hidden;
+    }
+    #event {
+        overflow: hidden;
+    }
+    #counter {
+        overflow: hidden;
+    }
+    #support {
+        overflow: hidden;
+    }
+    #banner {
+        overflow: hidden;
+    }
+    #topheader {
+        overflow: hidden;
+    }
+    .navbar ul li {
+        padding-left: 12px;
+    }
+    #bottomheader {
+        overflow: hidden;
+        padding: 7px 0px;
+    }
+    .navbar button {
+        padding: 10px 8px;
+    }
+    .banner-items {
+        justify-content: center;
+        text-align: center;
+    }
+    .banner-text p {
+        width: initial;
+        padding-bottom: 50px;
+    }
+    .links .course {
+        padding: 11px 15px;
+    }
+    .links .tour {
+        padding: 9px 14px;
+    }
+    .navbar-brand {
+        padding-top: 0px;
+    }
+    #about {
+        overflow: hidden;
+        padding-top: 160px;
+    }
+    .vertical-items {
+        padding: 16px;
+        margin-bottom: 54px;
+    }
+    #course {
+        padding-top: 75px;
+    }
+    #course i.course-icons.fas.fa-arrow-right.slick-arrow {
+        visibility: hidden;
+        display: none;
+    }
+    #course i.course-icons.fas.fa-arrow-left.slick-arrow {
+        visibility: hidden;
+        display: none;
+    }
+    .vertical-dots {
+        display: none;
+        visibility: hidden;
+    }
+    .event-text h3 {
+        font-size: 18px;
+        margin-bottom: initial;
+    }
+    .event-text p {
+        font-size: 11px;
+        padding-bottom: 0px;
+    }
+    .join-btn a {
+        font-size: 14px;
+        padding: 8px 18px;
+        margin-top: 10px;
+    }
+
+
+    .pb-calendar .top-frame {
+       margin: 0;
+       padding: 0;
+    }
+    #event .pb-calendar {
+        min-height: 444px;
+        border: 29px solid var(--off-white);
+    }
+    .pb-calendar .top-frame>.year-month-frame {
+        font-size: 34px;
+        line-height: 40px;
+    }
+    #testimonial {
+        overflow: hidden;
+        padding: 45px 0px;
+        margin-top: 75px;
+    }
+    .a-card .a-btn:not(.collapsed) {
+        font-size: 18px;
+    }
+    .accordion-body {
+        word-spacing: initial;
+        padding-top: 20px;
+        margin-bottom: 25px;
+    }
+    .a-card button.accordion-button.a-btn.collapsed {
+        font-size: 18px;
+    }
+    .test-text {
+        padding-top: 0px;
+        padding-bottom: 25px;
+    }
+    .test-text p {
+        line-height: 22px;
+    }
+    #banner .slider .banner-content {
+        height: 620px;
+        background-position: center !important;
+    }
+    .course-card {
+        width: 100%;
+    }
+    #course {
+        overflow: hidden;
+    }
+    .pro-rating {
+        padding: 0;
+    }
+    .box {
+        padding: 0px 12px;
+    }
+    .conduct h5 {
+        font-size: 13px;
+        padding-left: 5px;
+    }
+    .conduct p {
+        font-size: 11px;
+        padding-left: 5px;
+    }
+    .teacher-info {
+        padding: 0px 10px;
+    }
+    #blogbg {
+        overflow: hidden;
+        margin-top: 65px;
+    }
+
+    #testimonial i.testr-icons.fas.fa-arrow-right.slick-arrow {
+        left: -20px;
+        z-index: 99;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+    #testimonial i.testl-icons.fas.fa-arrow-left.slick-arrow {
+        left: -20px;
+        z-index: 99;
+        width: 30px;
+        height: 30px;
+        line-height: 30px;
+    }
+
+    i.tch-icons.fas.fa-arrow-right.slick-arrow {
+        
+        display: none;
+        visibility: hidden;
+    }
+    i.tch-icons.fas.fa-arrow-left.slick-arrow {
+
+        display: none;
+        visibility: hidden;
+    }
+
+    
+
+
+
+
+
+
+
+
+
+}
+
+
+@media (max-width: 1399.98px) {
+    #topheader {
+        overflow: hidden;
+    }
+    #bottomheader {
+        overflow: hidden;
+    }
+    #banner {
+        overflow: hidden;
+    }
+    #support {
+        overflow: hidden;
+    }
+    #about {
+        overflow: hidden;
+    }
+    #counter {
+        overflow: hidden;
+    }
+    #course {
+        overflow: hidden;
+    }
+    #event {
+        overflow: hidden;
+    }
+    #testimonial {
+        overflow: hidden;
+    }
+    #teacher {
+        overflow: hidden;
+    }
+    #blogbg {
+        overflow: hidden;
+    }
+    #blogimage {
+        overflow: hidden;
+    }
+    #footer {
+        overflow: hidden;
+    }
+    #instagram {
+        overflow: hidden;
+    }
+    #copyright {
+        overflow: hidden;
+    }
+    #topbtn {
+        right: 10px;
+    }
+   
+    
+
+
+
+
+
+
+
+
+
+
+}
+@media (min-width: 320px) and (max-width: 575.98px) {
+
+}
